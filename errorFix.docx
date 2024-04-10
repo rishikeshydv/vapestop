@@ -1,0 +1,2 @@
+if watchman error:
+watchman watch-del-all
